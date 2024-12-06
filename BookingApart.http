@@ -1,0 +1,6 @@
+@BookingApart_HostAddress = http://localhost:5085
+
+GET {{BookingApart_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
